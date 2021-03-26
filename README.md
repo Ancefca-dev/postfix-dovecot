@@ -1,6 +1,5 @@
-# Postfix dovecot
-Postfix dovecot mail server:
-
+# Postfix dovecot mysql smtp
+Postfix dovecot mail server mailbox aliases in mysql database.
 
 # Postfix
 
