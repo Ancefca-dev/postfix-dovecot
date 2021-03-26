@@ -97,5 +97,5 @@ sudo service mysql restart
 ```
 
 ### References
-https://www.siemaszko.info/serwer-email-z-postfix-dovecot-na-bazie-mysql-debian-lub-ubuntu/
-https://serverfault.com/questions/861050/postfix-unsupported-dictionary-type-mysql
+- https://www.siemaszko.info/serwer-email-z-postfix-dovecot-na-bazie-mysql-debian-lub-ubuntu/
+- https://serverfault.com/questions/861050/postfix-unsupported-dictionary-type-mysql
