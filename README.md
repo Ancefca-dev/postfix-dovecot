@@ -16,6 +16,7 @@ useradd -g vmail -u 5000 vmail -d /var/mail
 
 # mail folder !!!
 chown -R root:vmail /var/mail
+chmod -R 770 /var/mail
 ```
 
 # Mysql server
@@ -80,6 +81,7 @@ mysql   /usr/lib/postfix/postfix-mysql.so   dict_mysql_open
 ```
 # mail folder !!!
 chown -R root:vmail /var/mail
+chmod -R 770 /var/mail
 ```
 
 ### Logs
