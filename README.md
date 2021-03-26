@@ -1,5 +1,5 @@
 # Postfix dovecot mysql smtp
-Postfix dovecot mail server mailbox aliases in mysql database.
+Postfix dovecot mail server mailbox aliases in mysql database. Smtp server virtual aliases in mysql, mariadb database.
 
 # Postfix
 
