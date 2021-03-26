@@ -89,13 +89,13 @@ cat /var/log/mail.log
 tail -f /var/log/mail.log
 ```
 
-### restart
+# Restart
 ```
 sudo service postfix restart
 sudo service dovecot restart
 sudo service mysql restart
 ```
 
-### References
+# References
 - https://www.siemaszko.info/serwer-email-z-postfix-dovecot-na-bazie-mysql-debian-lub-ubuntu/
 - https://serverfault.com/questions/861050/postfix-unsupported-dictionary-type-mysql
